@@ -1,0 +1,7 @@
+
+{
+  "appId": "com.mathtutor.app",
+  "appName": "MathTutor",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
